@@ -43,7 +43,6 @@
 
 #### **Ajustes no projeto do trabalho final 09/10/20**
 * Ajustes principalmente na parte de Requisitos não funcioanais, na qual todo o grupo teve bastante dificuldade em saber como ajustar de acordo com o que foi pedido.
-* 
 
 #### **Ajustes no projeto do trabalho final 13/10/20**
 * Mais uma vez Colocamos adjetivos nos requisitos não funcionais, fomos notificados de como poderiamos testar a veracidade do que estamos dizendo (adjetivos nao servem como requisitos).
