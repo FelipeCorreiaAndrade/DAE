@@ -54,3 +54,121 @@
 
 #### **Aula dia 15/10/20**
 * Explicação referente a Requisitos não funcionais de acordo com a dificuldade de entendimento de boa parte da turma.
+
+#### **Aula dia 20/10/20**
+* Aula com apresentção. Informações importantes sobre varios temas.
+
+#### **Dia 21/10/20**
+* Afinamento de versionamento.
+
+#### **Dia 21/10/20**
+* Afinamento de versionamento.
+* Reunião para resolvermos alguns temas importantes para o desenvolvimento.
+
+#### **Dia 22/10/20**
+* Reunião e conversas sobre design e alguns ajustes.
+
+#### **Dia 23/10/20**
+* Reunião marcada com o professor para o acompanhamento do projeto.
+
+#### **Dia 27/10/20**
+* Reunião com o professor e ajustes no escopo do projeto em geral.
+
+#### **Dia 28/10/20**
+* Reunião da equipe para ver assunto de PO e visão de produto.
+
+#### **Dia 29/10/20**
+* Finalizando a montagem de algumas documentações.
+
+#### **Dia 03/11/20**
+* TP1 completo e postado na WIKI.
+* Montagem do protótipo do site com uma interface virtual e online.
+
+#### **Dia 04/11/20**
+* Reforço na confecção das dailies no nosso processo de scrum.
+* Escolha do banco de dados MYSQL.
+
+#### **Dia 05/11/20**
+* Reunião da equipe.
+
+#### **Dia 06/11/20**
+* Problemas com GIT, mas fui auxiliado pelos integrantes do grupo e deu tudo certo.
+* Postagem da pagina index no git.
+
+#### **Dia 09/11/20**
+* Entrega da sprint 1.
+
+#### **Dia 10/11/20**
+* Reunião rápida semanal para colocar as coisas em dia.
+* Inicio da sprint 2.
+* Problemas com GIT de outros integrantes.
+
+#### **Dia 11/11/20**
+* Separação das funções da sprint 1.
+
+#### **Dia 12/11/20**
+* Dicas para usar o github descktop para resolução dos problemas com o GIT.
+* Reunião marcada com o professor para acompanhamento do projeto.
+
+#### **Dia 13/11/20**
+* Primeiros passos da aba registrar-se.
+* Link com o banco de dados.
+
+#### **Dia 16/11/20**
+* Reunião de afinamento de explicação.
+
+#### **Dia 17/11/20**
+* Reunião marcada com o professor para acompanhamento.
+
+#### **Dia 18/11/20**
+* Entrega da pagina de cadastro de casos parcialmente (sem o link com banco de dados).
+
+#### **Dia 19/11/20**
+* Reunião com a equipe.
+
+#### **Dia 23/11/20**
+* Problemas recorrentes com git(perda de arquivos e etc).
+* Reunião com a equipe.
+* Mudanças nas páginas cadastro de doenças e cadastro de casos para uma mesma interface chamada menu, onde se encontram as 2 alternativas para quem for médico.
+* Fim da sprint 2 e entrega das docuemntações.
+
+#### **Dia 24/11/20**
+* Live de reunião com a infectologista Juliana Lapa para: perguntas, dicas e exclareciementos sobre nosso site.
+* Início da Sprint 3.
+
+#### **Dia 25/11/20**
+* Equipe com problemas com o nodemon (extenção para deiar o serever rodando para ver atualizações de código automáticas).
+
+#### **Dia 26/11/20**
+* Reunião de acompanhamento com o professor.
+
+#### **Dia 27/11/20**
+* Dificuldade com a montagem do diagrama de classes,pois o site nao está sendo 100% orientado a objeto.
+
+#### **Dia 28/11/20**
+* Link com banco de dados finalizado de cadastro de donças e de casos.
+
+#### **Dia 30/11/20**
+* Reunião com a equipe e problemas com o tempo (A equipe toda achou que o trabalho seria entrege dia 08/12 porém terá que ser entregue dia 03/12, fazendo que com que tenhamos que encurtar a ultima sprint bastante).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
