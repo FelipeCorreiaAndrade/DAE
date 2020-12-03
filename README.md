@@ -151,10 +151,11 @@
 #### **Dia 30/11/20**
 * Reunião com a equipe e problemas com o tempo (A equipe toda achou que o trabalho seria entrege dia 08/12 porém terá que ser entregue dia 03/12, fazendo que com que tenhamos que encurtar a ultima sprint bastante).
 
+#### **Dia 01/11/20**
+* Fiquei bastante doente e acabei nao podendo ajudar muito, porem o site foi bastante pra frente com o mapeamento de casos pronto
 
-
-
-
+#### **Dia 02/11/20**
+* Por conta da minha doença, nao consegui fazer muito hoje tambem, porem está correndo tudo bem com o projeto, mas tudo muito corrido pra equipe.
 
 
 
